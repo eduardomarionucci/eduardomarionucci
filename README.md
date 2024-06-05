@@ -5,7 +5,7 @@
 
 - 🌱 Estou aprendendo **Laravel e React.js**
 
-- 📫 Contate-me em **dududmdias@gmail.com**
+- 
 
 <h3 align="left">Redes Sociais</h3>
 <p align="left">
